@@ -120,6 +120,10 @@ div {
 
 ## Do the exercises
 
+## DO the project 1
+
+## Do the pair programming
+
 ## Additional Resources
 
 1. https://learn.shayhowe.com/html-css/opening-the-box-model/
