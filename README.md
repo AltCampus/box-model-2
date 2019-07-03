@@ -117,3 +117,11 @@ div {
 2. What are the box-sizing properties?
 3. How can we add box-shadow?
 4. Create a solid line inside the box using box-shadow.
+
+## Do the exercises
+
+## Additional Resources
+
+1. https://learn.shayhowe.com/html-css/opening-the-box-model/
+
+- https://internetingishard.com/html-and-css/css-box-model/
