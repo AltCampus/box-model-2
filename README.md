@@ -1,4 +1,4 @@
-# Advance Box Model
+# Advanced Box Model
 
 ## Topics of the day
 
